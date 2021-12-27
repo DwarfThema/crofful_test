@@ -1,0 +1,12 @@
+.extract {
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 8844px;
+  min-width: 700px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
